@@ -6,4 +6,4 @@ Make sure to set the path of your Blender in the Editor Settings
 
 First create a new inherited scene, then set the path of the tileset in the script.
 
-[](https://github.com/asteria-dev/godot-3d-tileset-unpacker/blob/main/screenshots/new-inherited-scene.gif)
+![](https://github.com/asteria-dev/godot-3d-tileset-unpacker/blob/main/screenshots/new-inherited-scene.gif)
