@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dtuvasdm3w40g"]
+
+[ext_resource type="Script" path="res://Unpacker.gd" id="1_0mpn5"]
+
+[node name="Unpacker" type="Node"]
+script = ExtResource("1_0mpn5")
+metadata/_edit_vertical_guides_ = []

@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://0qvwbmebv4kn"]
+
+[ext_resource type="PackedScene" uid="uid://d4bpwj78e2u0y" path="res://tilesets/building-blks.blend" id="1_wtgsq"]
+
+[node name="building-blks" instance=ExtResource("1_wtgsq")]
